@@ -1,2 +1,2 @@
 # Stocks-Predictor
-Predicting the stocks using different methods used in trading. Using this for Indian stocks only. 
+Predicting the stocks using different methods used in trading. For Indian stocks only. 
