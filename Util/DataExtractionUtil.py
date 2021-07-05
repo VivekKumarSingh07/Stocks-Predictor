@@ -12,3 +12,8 @@ def extract_companies_from_indices(market_index):
         for row in csv_reader:
             company_list.append(row[2])
     return company_list
+
+
+# Extract data from the economic times links
+def extract_info_from_et_links(links):
+    print(links)
