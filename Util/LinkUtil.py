@@ -41,6 +41,3 @@ def format_links_of_economic_times(recos_links):
         modified_recos_links.append(new_link)
 
     return modified_recos_links
-
-
-economic_times_links()
